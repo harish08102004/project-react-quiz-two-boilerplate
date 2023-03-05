@@ -1,4 +1,4 @@
-[
+const data = [
   {
       "question": "What temperature does water boil at?",
       "optionA": "50 degrees Celcius",
@@ -27,7 +27,7 @@
   },
 
   {
-      "question": "Which is the only mammal that can’t jump?",
+      "question": "Which is the only mammal that can't jump?",
       "optionA": "Dog",
       "optionB": "Elephant",
       "optionC": "Goat",
@@ -90,7 +90,7 @@
   },
 
   {
-      "question": "What’s the most important book in the Moslem religion?",
+      "question": "What's the most important book in the Moslem religion?",
       "optionA": "The Koran",
       "optionB": "The Dictionary",
       "optionC": "The Bible",
@@ -99,7 +99,7 @@
   },
 
   {
-      "question": "What’s the capital of Ethiopia?",
+      "question": "What's the capital of Ethiopia?",
       "optionA": "Cape Town",
       "optionB": "San Francisco",
       "optionC": "Abuja",
@@ -134,3 +134,5 @@
       "answer": "In the beginning"
   }
 ]
+
+export default data;
